@@ -16,8 +16,10 @@
 ### 2. [building-models](./2.building-models)
 
 - [2.1.layer-and-models 自定义层与模型](./2.building-models/2.1.layer_and_model.ipynb)
+    - [auto-keras](./2.building-models/blog.autokeras.md)
 - [2.2.multilayer-perceptron 多层感知机](./2.building-models/2.2.multilayer-perceptron.ipynb)
 - [2.3.loss function - 损失函数](./2.building-models/2.3.loss.ipynb)
+    - [how-to-choose-loss-function](./2.building-models/blog.how-to-choose-loss-function.md)
 - [2.4.optimizer - 优化器](./2.building-models/2.4.optimizer.ipynb)
 - [2.5.learning_rate_scheduler 学习率调整器](./2.building-models/2.5.learning_rate_scheduler.ipynb)
 - [2.6.metrics - 评价指标](./2.building-models/2.6.metrics.ipynb)
