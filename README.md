@@ -21,8 +21,15 @@
 - [2.4.optimizer - 优化器](./2.building-models/2.4.optimizer.ipynb)
 - [2.5.learning_rate_scheduler 学习率调整器](./2.building-models/2.5.learning_rate_scheduler.ipynb)
 - [2.6.metrics - 评价指标](./2.building-models/2.6.metrics.ipynb)
+- [2.7.rnn-examples - 循环神经网络](./2.building-models/2.7.rnn_examples.ipynb)
 
 ### 3. training
+
+- [3.1.simple-training - 最简单的模型训练]()
+- [3.2.checkpoint - 保存和加载最优模型权重]()
+- [3.3.learning-rate-scheduler - 学习率调整器]()
+- [3.4.warmup - 缓慢调整学习率]()
+- [3.5.tf-record - 大数据量的数据处理方法]()
 
 ### 4. checkpoint
 
